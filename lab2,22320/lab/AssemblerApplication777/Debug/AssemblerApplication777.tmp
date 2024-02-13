@@ -1,0 +1,39 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\m328Pdef.inc</FILE>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.7.374\avrasm\inc\M328PDEF.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\Debug\AssemblerApplication777.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>AssemblerApplication777.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>AssemblerApplication777.map</FILE>
+  <FILE>AssemblerApplication777.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <SEVENSEGMENTS><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>21</LINE></SEVENSEGMENTS>
+  <POPULATESEVENSEGMENTS><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>25</LINE></POPULATESEVENSEGMENTS>
+  <SETUP><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>66</LINE></SETUP>
+  <INIT_T0><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>123</LINE></INIT_T0>
+  <LOOP><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>97</LINE></LOOP>
+  <INCCOUNTER><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>138</LINE></INCCOUNTER>
+  <INCHEXCOUNTER><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>199</LINE></INCHEXCOUNTER>
+  <DECHEXCOUNTER><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>206</LINE></DECHEXCOUNTER>
+  <OUTPUTDISPLAY><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>144</LINE></OUTPUTDISPLAY>
+  <SVSGMTDECODER><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>187</LINE></SVSGMTDECODER>
+  <DEBOUNCE><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>213</LINE></DEBOUNCE>
+  <CHECK><FILE>C:\Users\josea\OneDrive\Escritorio\PDM\AssemblerApplication777\AssemblerApplication777\main.asm</FILE><LINE>218</LINE></CHECK>
+ </LABELS>
+</ASSEMBLER_INFO>
